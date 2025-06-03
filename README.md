@@ -4,7 +4,7 @@
 
 ## ⚠️ DISCLAIMER
 
-**This is an independent research project created by [Your Name] in a personal capacity. The views, opinions, and findings expressed in this project are solely those of the author and do not represent the views, policies, or positions of the United States Census Bureau or the U.S. Department of Commerce.**
+**This is an independent research project created by the author in a personal capacity. The views, opinions, and findings expressed in this project are solely those of the author and do not represent the views, policies, or positions of his employer, the United States Census Bureau or the U.S. Department of Commerce.**
 
 **This project:**
 - Is **NOT an official U.S. Census Bureau application or service**
